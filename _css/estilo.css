@@ -1,0 +1,27 @@
+/***********************************Inicializa Logo******************************************/
+.logo{
+    background-color: blue;
+    text-align: center;
+}
+.logo img{
+    margin-top: 3%;
+}
+.logo h1{
+    display: inline-block;
+}
+/***********************************Finaliza Logo********************************************/
+/***********************************Inicicializa Menu***************************************/
+.menu{
+background-color: red;  /*Somente utlizando para teste */
+text-align: center;
+}
+.menu li{
+    display: inline-block;
+    padding: 1%;
+}
+.menu li a{
+    text-decoration: none;
+    color: white;          /*Posivelmente irá ser trocada*/
+}
+
+/***********************************Finaliza Menu***************************************/

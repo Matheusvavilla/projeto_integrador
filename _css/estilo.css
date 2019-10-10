@@ -25,3 +25,26 @@ text-align: center;
 }
 
 /***********************************Finaliza Menu***************************************/
+
+/***********************************Inicializa Catalogo *********************************/
+.catalogo{
+    width: 100%;
+    height: auto;
+    background-color: blue;
+    margin-top: 5%;
+}
+.item{
+    width: 50%;
+    height: 500px;
+    background-color: brown;
+}
+.item p{
+    text-align: right;
+}
+.item img{
+    width: 250px;
+    height: 250px;
+    float: left;
+}
+
+/***********************************Finaliza Catalogo *********************************/

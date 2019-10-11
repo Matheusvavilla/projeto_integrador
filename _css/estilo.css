@@ -31,20 +31,29 @@ text-align: center;
     width: 100%;
     height: auto;
     background-color: blue;
-    margin-top: 5%;
 }
 .item{
-    width: 50%;
-    height: 500px;
+    width: 45%;
+    height: auto;
     background-color: brown;
-}
-.item p{
-    text-align: right;
+    overflow: hidden;
+    display: inline-block;
+    margin: 5px 32px;
 }
 .item img{
     width: 250px;
     height: 250px;
+    padding: 1%;
     float: left;
 }
 
 /***********************************Finaliza Catalogo *********************************/
+/***********************************Inicializa Rodapé *********************************/
+footer{
+    width: 100%;
+    background-color: blue;
+    text-align: center;
+    padding: 10px 0;
+
+}
+/***********************************Finaliza Rodapé *********************************/

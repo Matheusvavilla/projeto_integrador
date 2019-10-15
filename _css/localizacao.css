@@ -1,0 +1,14 @@
+/*Inicializa Mapa e Informações*/
+.mapa{
+    width: 50%;
+    height: auto;
+    float: left;
+    background-color: chocolate;
+}
+.info{
+    width: 50%;
+    height: auto;
+    float: right;
+    background-color: cornflowerblue;
+}
+/*Finalização Mapa e Informações*/

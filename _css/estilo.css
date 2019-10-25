@@ -4,10 +4,9 @@
     text-align: center;
 }
 .logo img{
-    margin-top: 3%;
-}
-.logo h1{
-    display: inline-block;
+    width: 450px;
+    height: 200px;
+    padding: 0.5%;
 }
 /***********************************Finaliza Logo********************************************/
 /***********************************Inicicializa Menu***************************************/
@@ -54,6 +53,5 @@ footer{
     background-color: blue;
     text-align: center;
     padding: 10px 0;
-
 }
 /***********************************Finaliza Rodapé *********************************/

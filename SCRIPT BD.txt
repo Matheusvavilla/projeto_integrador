@@ -1,0 +1,12 @@
+create database luvasavila;
+
+alter database luvasavila CHARSET = UTF8 COLLATE = utf8_general_ci;
+
+create table usuario (
+userid int not null auto_increment,
+usuario varchar(30),
+senha varchar(30),
+email varchar(60),
+primary key (userid)
+)default charset = utf8;
+

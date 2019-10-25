@@ -1,14 +1,20 @@
 /*Inicializa Mapa e Informações*/
-.mapa{
+.localizacao{
+    width: 100%;
+    background-color: darkgreen;
+    height: 600px;
+}
+div.mapa{
     width: 50%;
     height: auto;
     float: left;
     background-color: chocolate;
 }
-.info{
+div.info{
     width: 50%;
-    height: auto;
+    height: 300px;
     float: right;
-    background-color: cornflowerblue;
+    background-color: coral;
 }
+
 /*Finalização Mapa e Informações*/
